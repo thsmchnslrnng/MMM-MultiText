@@ -30,6 +30,9 @@ Config Options:
 - **`refresh`**: Time in milliseconds to refresh the content. Default: `60000` (1 minute).
 - **`lines`**: Array of objects defining text lines to be displayed:
     - **`text`**: The text to display.
-    - **`color`**: Color of the text (hex value, RGB, etc.).
+    - **`color`**: Color of the text (hex value, RGB, etc.).  
+ 
+Screenshot  
+![Screenshot 2025-03-28 160632](https://github.com/user-attachments/assets/da1c04b3-a6dd-4307-aad9-0bdddb9e966d)
 
 Personally, I use this as a calendar key for multiple people.
