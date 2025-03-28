@@ -1,5 +1,5 @@
 # MMM-MultiText  
-A MagicMirror module that displays multiple lines of customizable text with different styles, colors, and sizes.
+A super, simple MagicMirror module that displays multiple lines of customizable text with different styles, colors, and sizes.
 
 Installation  
 To install the module, navigate to your MagicMirror `modules` folder and clone the repo:
